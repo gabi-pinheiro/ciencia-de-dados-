@@ -1,0 +1,4 @@
+Conjunto,Acuracia_media_CV,Desvio_CV
+Todas as caracteristicas (13),0.8868,0.0072
+PCA (10 componentes),0.8876,0.0061
+Selecao SFS (6 caracteristicas),0.9044,0.0069

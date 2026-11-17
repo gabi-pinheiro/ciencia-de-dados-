@@ -1,0 +1,8 @@
+Caracteristica,Outliers_IQR_antes,Outliers_zscore_antes,Outliers_IQR_depois,Outliers_zscore_depois
+Temperature,0,0,0,0
+Humidity,0,0,0,0
+Wind Speed,324,180,324,207
+Precipitation (%),0,0,0,0
+Atmospheric Pressure,300,236,209,188
+UV Index,0,0,0,0
+Visibility (km),320,235,320,235

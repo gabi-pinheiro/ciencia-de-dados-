@@ -1,0 +1,12 @@
+Caracteristica,Tipo,Media,Mediana,Moda
+Temperature,numerica,19.12757575757576,21.0,32.0
+Humidity,numerica,68.71083333333333,70.0,76
+Wind Speed,numerica,9.83219696969697,9.0,8.0
+Precipitation (%),numerica,53.644393939393936,58.0,19.0
+Cloud Cover,categorica,,,overcast
+Atmospheric Pressure,numerica,1005.8278962121212,1007.65,"1013.57, 1015.11, 1016.31, 1017.92, 1017.97, 1019.47"
+UV Index,numerica,4.005757575757576,3.0,1
+Season,categorica,,,Winter
+Visibility (km),numerica,5.462916666666667,5.0,1.5
+Location,categorica,,,inland
+Weather Type,categorica,,,"Cloudy, Rainy, Snowy, Sunny"
